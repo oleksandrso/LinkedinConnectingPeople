@@ -28,11 +28,11 @@ This repository contains the code for automating LinkedIn networking tasks such 
 
 1. Clone the repository
     ```bash
-    git clone https://github.com/oleksandrso/linkedin-automation-bot.git
+    git clone https://github.com/oleksandrso/LinkedinConnectingPeople.git
     ```
 2. Navigate to the project directory
     ```bash
-    cd linkedin-automation-bot
+    cd LinkedinConnectingPeople
     ```
 3. Install the dependencies
     ```bash
