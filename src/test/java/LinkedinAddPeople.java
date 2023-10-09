@@ -10,7 +10,7 @@ public class LinkedinAddPeople extends TestBase{
 
     @Test
     void addPeople() {
-        Methods.search("it recruiter kyiv");  // Search for "it hr ukraine" on LinkedIn
+        Methods.search("it recruiter ukraine");  // Search for "it hr ukraine" on LinkedIn
         sleep(1500);  // Wait for 1.5 seconds
         Methods.scrollToBottom();  // Scroll to the bottom of the page
         actions().scrollToElement(Methods.page(startPage)).click();  // Scroll to and click on the starting page
